@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "name": "Jose ",
+      "email": "josekcarvalho116@gmail.com",
+      "birth": 1613088000000,
+      "gender": "M",
+      "blood": "A1",
+      "weight": "33",
+      "height": "111",
+      "id": 2
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "name": "Jose ",
+      "email": "josekcarvalho116@gmail.com",
+      "birth": 1614816000000,
+      "gender": "M",
+      "blood": "O0",
+      "weight": "90",
+      "height": "165",
+      "id": 3
+    }
+  ],
+  "instructors": [
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1530462943125-677cc511c87e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1494&q=80",
+      "name": "Jose Ribeiro",
+      "birth": 841363200000,
+      "gender": "M",
+      "services": "natação,musculação",
+      "created_at": 1609878246785
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+      "name": "Ana",
+      "birth": 514166400000,
+      "gender": "F",
+      "services": "Ginastica",
+      "created_at": 1618191480347
+    }
+  ]
+}
