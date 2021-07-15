@@ -3,8 +3,24 @@ const data = require('../data.json')
 const { age, date } = require('../utils')
 
 exports.index = function(req , res) {
+
+    
     return res.render("instructors/index", {instructors: data.instructors})
 }
+
+// exports.index = function(req , res) {
+//     const instructors = data.instructors.map(function (instructor) { 
+//         instructor.service = instructor.services.split(",")
+//       return instructor
+//         }
+
+//     // const instructor = {
+//     //     ...data.instructors,
+//     //     services: data.instructors.services.split(","),
+//     // }
+    
+//     return res.render("instructors/index", {instructors: data.instructors})
+// }
 
 
 
